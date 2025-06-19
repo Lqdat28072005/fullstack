@@ -1,0 +1,26 @@
+{
+  "name": "hoc-tieng-anh",
+  "version": "1.0.0",
+  "description": "lequangdatdev",
+  "main": "src/server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node src/server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Lqdat28072005/fullstack.git"
+  },
+  "keywords": [
+    "lequangdat"
+  ],
+  "author": "lequangdatdev",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Lqdat28072005/fullstack/issues"
+  },
+  "homepage": "https://github.com/Lqdat28072005/fullstack#readme",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
